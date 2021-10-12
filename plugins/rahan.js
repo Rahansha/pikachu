@@ -17,7 +17,7 @@ souravkl11.addCommand({pattern: 'pikachu', fromMe: false, dontAddCommandList: tr
   {buttonId: 'id2', buttonText: {displayText: 'No'}, type: 1}
 ]
 const buttonMessage = {
-    contentText: "Pikachu V2 Veeno?",
+    contentText: "Pikachu v2 veno?",
     footerText: '© RAHAN',
     buttons: buttons,
     headerType: 1
